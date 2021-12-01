@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/transition.wav-3de55ccc4754f2a8c73177f6a96c1269.sample"
+
+[deps]
+
+source_file="res://Engine/Music/SFX/DDBB/transition.wav"
+dest_files=[ "res://.import/transition.wav-3de55ccc4754f2a8c73177f6a96c1269.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

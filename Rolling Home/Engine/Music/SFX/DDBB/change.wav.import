@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/change.wav-9e054a8c4c6eab5937cd072e95c309da.sample"
+
+[deps]
+
+source_file="res://Engine/Music/SFX/DDBB/change.wav"
+dest_files=[ "res://.import/change.wav-9e054a8c4c6eab5937cd072e95c309da.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/ice.wav-cc72d089eaec2528577583781bf3496d.sample"
+
+[deps]
+
+source_file="res://Engine/Music/SFX/DDBB/ice.wav"
+dest_files=[ "res://.import/ice.wav-cc72d089eaec2528577583781bf3496d.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

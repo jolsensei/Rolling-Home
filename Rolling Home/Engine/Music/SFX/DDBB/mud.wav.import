@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/mud.wav-289794cad862ff86d39541cdf3c602ac.sample"
+
+[deps]
+
+source_file="res://Engine/Music/SFX/DDBB/mud.wav"
+dest_files=[ "res://.import/mud.wav-289794cad862ff86d39541cdf3c602ac.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
